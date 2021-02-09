@@ -64,7 +64,7 @@ background:var(--mainBlue);
 }
 .navbar-brand{
     width:100px;
-    border-radius:70px;
+    border-radius:46%;
 }
 `
 
