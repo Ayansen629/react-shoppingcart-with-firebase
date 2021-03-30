@@ -8,7 +8,6 @@
 body{
   font-family: 'Oswald', sans-serif !important;
   
-
 background: var(--mainWhite) !important;
 color: var(--mainDark) !important;
 }
@@ -23,6 +22,7 @@ color: var(--mainDark) !important;
 .text-bright{
   color:var(--lightBlue);
 }
+
 .btn-black{
   background: transparent;
   text-transform: capitalize;
